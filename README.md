@@ -50,6 +50,12 @@
 [instagram]: https://www.instagram.com/javierdiazarca/
 [linkedin]: https://www.linkedin.com/in/javierdiazarca/
 [blank]: https://
+
+---
+
+[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=i820189)](https://github.com/i820189/github-readme-stats)
+
+
 ---
 
 <!--
