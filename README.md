@@ -53,7 +53,7 @@
 
 ---
 
-[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=i820189)](https://github.com/i820189/github-readme-stats)
+[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=i820189)](https://github.com/i820189)
 
 
 ---
