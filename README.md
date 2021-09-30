@@ -40,6 +40,7 @@
 - [Elementos de un sistema de percepción](https://javierdiazarca.medium.com/elementos-de-un-sistema-de-percepci%C3%B3n-6613de67b529)
 - [Origen y Evolución de la Inteligencia Artificial](https://javierdiazarca.medium.com/origen-y-evoluci%C3%B3n-de-la-inteligencia-artificial-d39f3b382da5)
 - [Conversión de Señal Analógica-Digital](https://javierdiazarca.medium.com/conversi%C3%B3n-de-se%C3%B1al-anal%C3%B3gica-digital-7a1037aa5aa3)
+- [Teorema de Bayes — Ejercicios](https://javierdiazarca.medium.com/teorema-de-bayes-ejercicios-bases-de-la-ia-678d62ec32f2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://javierdiazarca.medium.com/)
