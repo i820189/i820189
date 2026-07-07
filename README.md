@@ -1,6 +1,6 @@
 ### Hi there, I'm Javier Diaz 👋
 
-## I'm a Husband, Father, Data Engineer, and Student!!
+## I'm a Husband, Father, Data & AI Manager , and Student!!
 
 - 🌱 I'm currently studying Artificial intelligence Master 🤣
 - 👯 I'm looking to collaborate with other content creators
